@@ -1,0 +1,6 @@
+{
+	"/": "HomeController@index",
+	"/home" : "HomeController@home",
+	"/login": "LoginController@index",
+	"/login/create": "LoginController@create"
+}
